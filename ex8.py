@@ -15,6 +15,6 @@ print(formatter.format(
 # da linha de comando denominado format.
 # Passar quatro argumentos para format, que correspondem às quatro {}s
 # na variável formatter. É como passar argumentos para o comando format da linha
-# de co-mando.
+# de comando.
 # O resultado de chamar format em formatter é uma nova string com as {}
-# subs-tituídas por quatro variáveis. Isso é o que o print imprime.
+# subistituídas por quatro variáveis. Isso é o que o print imprime.
